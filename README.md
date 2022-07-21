@@ -2,7 +2,7 @@
 <!-- README express jest typscript -->
 
 ## Usage
-- yarn start
+- yarn dev
 
 ## Usage
 - yarn jest
