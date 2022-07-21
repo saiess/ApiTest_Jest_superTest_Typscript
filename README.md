@@ -1,0 +1,1 @@
+# ApiTest_Jest_superTest_Typscript
